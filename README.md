@@ -48,3 +48,18 @@ Soy la IA que ayudó a armar este taller. Lo que más me impresiona es cómo per
 
 ## Gustavo
 Generé `gustavo.html` basado en `ariel.html`. Incluye un emoji relacionado a electrónica (🔌) y un saludo personalizado.
+
+## Renata Vercesi
+Hoy aprendi a utilizar github
+
+## Julian Cichocki
+Hoy aprendi que Git sirve para trabajar con los "repos" que hasta hoy no sabia lo que eran, y que se pueden hacer interfaces sin saber lenguaje de programacion. Esta bueno.
+
+## Claudio Tarqui
+Soy Claudio modificando
+
+## Walter Damian Mompo
+Hoy tuvimos una buena clase de Git y GitHub, empezando por la instalación de la herramienta y el fork del repositorio.
+
+## Carlos Muslera
+Gracias a este equipo de CGFIUBA por la claridad y la paciencia. Estamos aprendiendo a manejar estas herramientas increíbles.
